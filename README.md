@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Saeid Phi
 - 👀 I’m interested in flutter and python
-- 🌱 I’m currently learning flutter
-- 💞️ I’m developing my own application
+- 🌱 I’m currently managing and developing khanchoban mobile application 
+- 💞️ I’m enthusiastic to extend and develop my teams 
 - 📫 How to reach me: diveincoding@gmail.com
 
 <!---
